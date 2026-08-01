@@ -1,6 +1,6 @@
 function Header() {
   return (
-    <h1>Sky Check</h1>
+    <h1>Sky Check Dashboard</h1>
   );
 }
 
