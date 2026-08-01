@@ -1,7 +1,5 @@
-function Header() {
-  return (
-    <h1>Sky Check Dashboard</h1>
-  );
+function Header({ title }) {
+  return <h1>{title}</h1>;
 }
 
 export default Header;
